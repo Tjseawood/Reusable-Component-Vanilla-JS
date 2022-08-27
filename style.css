@@ -1,0 +1,17 @@
+:root{
+  --md-dark-color: #1d1d1d;
+  --dark-color: #171717;
+  --light-dark-color: #292929;
+  --blue-color: rgb(15, 109, 168);
+  --light-color: #fff;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.comment-form{
+  padding: 1rem;
+}
